@@ -10,4 +10,4 @@ function stepen($number, $stepen)
     return $newNum;
 }
 
-echo stepen(4, 3);
+echo stepen(5, 2);
