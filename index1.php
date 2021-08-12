@@ -11,3 +11,14 @@ function stepen($number, $stepen)
 }
 
 echo stepen(5, 2);
+
+function booleanValue($bool)
+{
+    if ($bool) {
+        echo "Истина";
+    } else {
+        echo "Ложь";
+    }
+}
+
+booleanValue(false);
